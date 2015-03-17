@@ -1,0 +1,1 @@
+OneCloud is service catalog system interface with OpenNebula witch working as infrastructure as a services. OneCloud use OCCI interface to provisioning virtual machine in OpenNebula system.
